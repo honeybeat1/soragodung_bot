@@ -1,2 +1,2 @@
-print('hello world!')
-print('웅앵웅')
+print('chun jae ya?!')
+print('집에 갈까?')
