@@ -1,2 +1,2 @@
 print('chun jae ya?!')
-print('집에 갈까')
+print('집에 갈까?')
